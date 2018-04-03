@@ -10,9 +10,7 @@ public class HomeController {
 	public String goHome() 
 	{
 		
-		
-		return "home";
-		
+		return "home";	
 	}
 }
 
